@@ -1,5 +1,5 @@
 # TwitterVerse
-An application that replicates a simplified version of Twitter's search engine.
+An application written in Python that replicates a simplified version of Twitter's search engine.
 
 Files that were edited by William Chiu: twitterverse_functions.py and test_get_filter_results.py
 
